@@ -1,3 +1,4 @@
+#Read about Pell Equation-http://mathworld.wolfram.com/PellEquation.html
 
 from __future__ import print_function
 import math
