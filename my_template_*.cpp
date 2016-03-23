@@ -24,8 +24,9 @@
 using namespace std;
 
 int init(){
-	TEST
-
+	TEST{
+		
+	}
 	return 0;
 }
 
